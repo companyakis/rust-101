@@ -1,5 +1,5 @@
 //loop ile sonsuz döngü!
-//örnekte sayı değerini her seferinde 3 arttıralım
+//örnekte sayı değerini her seferinde 13 arttıralım
 
 fn main() {
   let mut sayi = 13;
