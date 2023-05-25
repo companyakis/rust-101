@@ -1,3 +1,6 @@
+
+file:///C:/Users/musta/OneDrive/Masa%C3%BCst%C3%BC/rust_programming_crab_sea.webp
+
 Merkeziyetsiz finans için ana dil olacağına inandığım Rust dili için başlangıç bir kaynak oluşturmaya karar verdim. Ki Rust genel amaçlı bir dildir. Farklı alanlarda güçlü Rust çözümleri olduğunu görüyoruz.
 
 Rust zor bir dil, ama üstüne gidilirse, anlamamak için bir neden yok.
