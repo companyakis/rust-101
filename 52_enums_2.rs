@@ -38,3 +38,10 @@ fn main() {
   println!("Trafik lambası ışığı? {:?}", isik_2);
   println!("Sürücü duracak mı? {}", isik_2.surucu_duracak());
 }
+
+/*
+Trafik lambası ışığı? Kirmizi
+Sürücü duracak mı? true
+Trafik lambası ışığı? Sari
+Sürücü duracak mı? false
+*/
