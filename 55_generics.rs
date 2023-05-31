@@ -6,6 +6,8 @@ sahada çarpışan askerlerin rütbeleri olmaz; çünkü düşmanın kimin komut
 verdiğim örnek %100 uyuşmamış olabilir, ama uygulama ile kavrayacağız
 
 structs, functions, trait, enum, vector, collection... hepsine de uygulanabilir
+
+burada temel bir örnek yapalım
 */
 
 //örnek yapacağız. string ile integer kullanacağız
